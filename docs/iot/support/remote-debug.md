@@ -39,7 +39,7 @@ Thus, we do recommend to disable this feature while it is not needed to don't ta
 1. Connect to your IoT box homepage (using the link on the IoT app)
 ![IoT-box homepage](/assets/images/iot/21.10/iot-homepage.png)
 2. Click on the `Remote Debug` button
-3. The `Remote Debuging` page will open.
+3. The `Remote Debuging` page will open
 4. In the "Authentification Token" field, enter the token provided by the person who will connect to your IoT box
 5. Click on the `Enable Remote Debugging` button
 ![IoT-box remote debugging page old](/assets/images/iot/21.10/iot-remote-debugging.png)

@@ -1,4 +1,4 @@
-title: LSE Odoo Documentation
+title: Odoo Knowledge (lse)
 description: A starter template for a Jeykll site using the Just the Docs theme!
 repository: lse-odoo/lse-odoo.github.io
 
@@ -20,6 +20,12 @@ callouts:
   danger:
     title: Danger
     color: red
+  info:
+    title: Info
+    color: blue
+  example:
+    title: Example
+    color: green
 
 ga_tracking: G-7YPL4HBLQ2
 ga_tracking_anonymize_ip: true

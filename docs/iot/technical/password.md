@@ -20,18 +20,18 @@ While there is no way to know this password, you can generate a new known one on
 
 ### Steps:
 1. Connect to your IoT-box homepage (using the link on the IoT app)
-![IoT-box homepage](/assets/images/iot/21.10/iot-homepage.png)
+![IoT-box homepage](/assets/images/iot/21.10/iot-homepage.avif)
 2. Click on the `Remote Debug` button
 3. The `Remote Debuging` page will open
 4. If you have a text field with `pi user password` and a `Generate password` button,
 click it
-![IoT-box remote debugging page new](/assets/images/iot/24.01/iot-remote-debugging.png)
+![IoT-box remote debugging page new](/assets/images/iot/24.01/iot-remote-debugging.avif)
 
     {: .info }
     If you don't have this field, you are on an old version of the IoT-box and the password is fixed to `raspberry`.  
-    ![IoT-box remote debugging page new](/assets/images/iot/21.10/iot-remote-debugging.png)
+    ![IoT-box remote debugging page new](/assets/images/iot/21.10/iot-remote-debugging.avif)
 
 5. Copy the new password generated
 
     {: .example }
-    ![IoT-box random password example](/assets/images/iot/24.01/iot-generate-password.png)
+    ![IoT-box random password example](/assets/images/iot/24.01/iot-generate-password.avif)

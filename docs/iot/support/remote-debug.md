@@ -37,15 +37,15 @@ Thus, we do recommend to disable this feature while it is not needed to don't ta
 ### Steps
 
 1. Connect to your IoT box homepage (using the link on the IoT app)
-![IoT-box homepage](/assets/images/iot/21.10/iot-homepage.png)
+![IoT-box homepage](/assets/images/iot/21.10/iot-homepage.avif)
 2. Click on the `Remote Debug` button
 3. The `Remote Debuging` page will open
 4. In the "Authentification Token" field, enter the token provided by the person who will connect to your IoT box
 5. Click on the `Enable Remote Debugging` button
-![IoT-box remote debugging page old](/assets/images/iot/21.10/iot-remote-debugging.png)
+![IoT-box remote debugging page old](/assets/images/iot/21.10/iot-remote-debugging.avif)
 6. If you have a text field with `pi user password` and a `Generate password` button, 
 click the button and copy the password generated
-![IoT-box remote debugging page new](/assets/images/iot/24.01/iot-remote-debugging.png)
+![IoT-box remote debugging page new](/assets/images/iot/24.01/iot-remote-debugging.avif)
 7. Share the password copied from the previous step with the person who will connect to your IoT box. 
 They will need it to connect to your IoT box
 

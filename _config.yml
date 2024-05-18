@@ -5,6 +5,7 @@ repository: lse-odoo/lse-odoo.github.io
 plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
+  - jekyll-last-modified-at
 
 remote_theme: just-the-docs/just-the-docs
 

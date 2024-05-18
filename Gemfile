@@ -7,3 +7,5 @@ gem "jekyll-remote-theme"
 gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 gem "jekyll-github-metadata"
+# Automatic last_modified_at date for Jekyll posts and collections
+gem "jekyll-last-modified-at"
